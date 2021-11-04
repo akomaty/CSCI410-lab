@@ -1,4 +1,4 @@
-[![banner](assets/logo-machine-learning_2.png)]
+![banner](assets/logo-machine-learning_2.png)
 
 This repository contains all of the code and software labs for CSCI410: Introduction to Machine Learning.
 
